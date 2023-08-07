@@ -1,6 +1,8 @@
 package com.pblgllgs.currencyexchangeservice.entity;
 
-import javax.persistence.*;
+
+import jakarta.persistence.*;
+
 import java.math.BigDecimal;
 
 @Entity
